@@ -1,0 +1,9 @@
+1. Hero does not need to know the existence of SuperHero because it does not require anything from the SuperHero
+class for it to run.
+
+2.The SuperHero class does need to know the existence of Hero class because it is derived from Hero thus using
+several member functions/constructors/ and data members from Hero.
+
+3.It printed out Ancient Heroes.
+
+4.First is True, second is False because the winner would need to be assigned to an object so it can fight another day!

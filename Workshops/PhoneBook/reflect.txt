@@ -1,0 +1,20 @@
+Louie Tse
+027168103
+lttse@myseneca.ca
+
+
+1.The copy assignment operator checks for self-assignment before doing anything else because we need to avoid unpredictable behavior
+if we add the self-assignment check we know that the current object is not equivalent to the source object.
+2. I avoided duplication of code by setting up a copyname() function which would use the strncpy method to copy
+the object's name data and put it into the current object contactName.
+-I've also created the isEmpty() function that would check if the name or the number of phone number would be empty
+-Lastly a display function was used to avoid repeating cout statements.
+3.In this workshop I learned how to:
+- create copy constructors that would duplicate and existing object.
+-use an overloaded operator of '+=' to add elements into the object created by the constructor
+-assign new constructor parameters an object
+
+
+Quiz Reflection 5:
+
+Correct.

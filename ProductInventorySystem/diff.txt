@@ -1,0 +1,10 @@
+
+In line number 200 of your output:
+The output should be:
+ Expiry date: 2018/06/30
+But your output is: 
+ Expiry date : 2018/06/30
+            ^
+------------|
+Professor's character ASCII code: hex(3a), dec(58)
+un-matched character ASCII code: hex(20), dec(32)

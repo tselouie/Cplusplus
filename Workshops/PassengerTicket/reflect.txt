@@ -1,0 +1,19 @@
+1. A safe empty space is when objects are created and it represents a default state. It usually takes in the form of 'null' or 0.
+Having these empty spaces ensures that there would be no random values.
+
+2.I have minimized code duplication by using function overloading. Otherwise there would be many display functions but with overloading we are able to use
+one name across multiple definitions because the compiler is smart enough to identify which one to use.
+
+3.The canTravelWith() member function can access the private data because it will get the data member
+using the public functions and then be redefined in the public space to be accessed by other functions.
+
+4.strncpy function requires <cstring> to be included as well as the right parameters which includes
+the destination string, source string, and the size.
+
+5.I learned that it is useful to work in different compilers because working in one environment will make you stuck for a long
+time whereas using another compiler will help you figure out those pesky bugs. Also, in this lab I have learned a better understanding
+of "this" function and it makes referring to different objects a lot easier.
+
+Quiz 2 Reflection:
+
+char* myString

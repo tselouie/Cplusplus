@@ -1,0 +1,10 @@
+
+In line number 40 of your output:
+The output should be:
+David can travel with Jennifer
+But your output is: 
+David can travel with Bob
+                      ^
+----------------------|
+Professor's character ASCII code: hex(4a), dec(74)
+un-matched character ASCII code: hex(42), dec(66)

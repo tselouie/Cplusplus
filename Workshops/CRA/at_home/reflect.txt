@@ -1,0 +1,11 @@
+1. There is elements equivalent to the name input + 1 because there is 1 byte that is required to to terminate the string called the null byte. For example
+if "Jane" is the string a total of 5 elements would be in the string.
+
+2.The feature that allows two member functions with the same name is function overloading.
+
+3.In this lab I learned how to function overload and defining multiple meanings for the same set function.
+
+
+
+
+Quiz 1 Reflection: All Correct

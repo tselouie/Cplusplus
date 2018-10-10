@@ -1,0 +1,15 @@
+Louie Tse
+027168103
+lttse@myseneca.ca
+
+
+1. The difference between an abstract base class and a concrete class is that an abstract class inherits from a pure virtual function
+and makes it mandatory for the abstract class to define the function where as the concrete class will have this information available before
+going into any child classes.
+2. The functions that shadow the main functions of Account are: debit(),credit(),monthEnd() and display().
+3.I learned how to use pure virtual functions and virtual functions in order to do polymorphism.
+
+Quiz ? Reflection:
+
+I'm not sure which quiz to be reflected on.
+

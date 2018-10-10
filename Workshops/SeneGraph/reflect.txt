@@ -1,0 +1,15 @@
+1. namespace is a scope of identifiers and its purpose to organize code and prevent name collisions especially when using
+different implementation and header files it starts to get hard to keep track of.
+
+2.Header files are needed because when our program needs to use functions that are defined in other files using the header file
+enables us to compile the programs together without needing to redefine the function in our own program.
+
+3. Header files are intended to be included into implementation files and only contain declarations within the file. When you
+compile files there would be no need for the header file for all they do is redirect the files to other functions in another file.
+
+4. If you include .cpp files in another file it is no different from having one giant file. Creating different files makes programs
+more scalable and modular and when programs get larger it is important that the files remain relatively small so it is easier to 
+implement without a lot of power.
+
+5.In this workshop I have learned the importance of namespaces in C++ and how to use them as well as only using .cpp files to 
+compile my program. As well as implementing safeguards on header files. 
